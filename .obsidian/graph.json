@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#1-个人成长/3-处世之道/3b-补强原则  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -11,11 +11,11 @@
       "query": "tag:#status-已阅  ",
       "color": {
         "a": 1,
-        "rgb": 65505
+        "rgb": 65331
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 1.2721782729805,
@@ -25,6 +25,6 @@
   "repelStrength": 17.3824786324786,
   "linkStrength": 0.494257478632479,
   "linkDistance": 500,
-  "scale": 0.6196595103005882,
+  "scale": 0.07152420493552125,
   "close": false
 }
