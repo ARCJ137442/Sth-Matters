@@ -1,3 +1,4 @@
+#status-已阅
 # 时尚与fashion
 [什么叫做「时尚」？](https://www.zhihu.com/question/301852058/answer/528310327)
 
