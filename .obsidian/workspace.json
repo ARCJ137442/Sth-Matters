@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【文章目录】/【9 - 艺术类】/900 - 艺术总论/艺术解读.md",
+                "file": "【文章目录】/【1 - 哲学类】/170 - 心理学/177 - 临床心理学/抑郁成因/破网.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#6-文化艺术/1-艺术总论",
+                "query": "同志网",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【文章目录】/【9 - 艺术类】/900 - 艺术总论/艺术解读.md",
+                "file": "【文章目录】/【1 - 哲学类】/170 - 心理学/177 - 临床心理学/抑郁成因/破网.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,6 +288,7 @@
   },
   "active": "acc487b43369b5fc",
   "lastOpenFiles": [
+    "【文章目录】/【9 - 艺术类】/900 - 艺术总论/艺术解读.md",
     "【文章目录】/【9 - 艺术类】/900 - 艺术总论/艺术与哲学.md",
     "【文章目录】/【9 - 艺术类】/900 - 艺术总论/艺术之美.md",
     "【文章目录】/【9 - 艺术类】/900 - 艺术总论/缪斯性.md",
@@ -313,7 +314,6 @@
     "待归档/事业重要.md",
     "待归档/两面鼓.md",
     "待归档/世界越来越难.md",
-    "待归档/不理想的判决.md",
     "debug.log",
     "md/Nell",
     "md/N",
