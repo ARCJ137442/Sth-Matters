@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "我的观点和条件是很清楚的",
+                "query": "tag:#1-个人成长/3-处世之道/3a-人身安全/2-救助ta人",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -270,7 +270,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "585f310e5051961b",
+  "active": "7569597966c86526",
   "lastOpenFiles": [
     "【文章目录】/【1 - 哲学类】/160 - 形而上学/165 - 价值论/人生观/爱的好处.md",
     "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原理/爱怕了.md",
