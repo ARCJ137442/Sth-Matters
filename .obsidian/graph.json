@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 65331
       }
+    },
+    {
+      "query": "tag:#status-有感  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
     }
   ],
   "collapse-display": true,
@@ -21,10 +28,10 @@
   "nodeSizeMultiplier": 1.2721782729805,
   "lineSizeMultiplier": 0.605482318476669,
   "collapse-forces": false,
-  "centerStrength": 0.457352941176471,
-  "repelStrength": 17.3824786324786,
-  "linkStrength": 0.494257478632479,
+  "centerStrength": 0.0966735966735967,
+  "repelStrength": 18.1496881496882,
+  "linkStrength": 0.495841995841996,
   "linkDistance": 500,
-  "scale": 0.07152420493552125,
+  "scale": 0.03018289506732424,
   "close": false
 }
