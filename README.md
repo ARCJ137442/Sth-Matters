@@ -1,5 +1,11 @@
 # README
 
+![Lines of Code](https://www.aschey.tech/tokei/github.com/ARCJ137442/Sth-Matters?style=for-the-badge&color=64b6e8)
+[![Language](https://img.shields.io/badge/language-Markdown-white?style=for-the-badge&color=64b6e8)](https://cn.julialang.org/)
+
+![Created At](https://img.shields.io/github/created-at/ARCJ137442/Sth-Matters?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/ARCJ137442/Sth-Matters?style=for-the-badge)
+
 ---
 
 借赐于某位创作者的思想火花，我整理并织构了一幅知识网络，通过Obsidian笔记软件展现，并支持在主机或移动端阅读与编辑。 
