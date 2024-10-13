@@ -1,3 +1,4 @@
+#status-已阅 
 # IGN
 [如何看待IGN高管回应《黑神话：悟空》票数暴降，没有操纵票数，只是过滤了机器人？](https://www.zhihu.com/question/668209226/answer/3639860949)
 
