@@ -1,3 +1,4 @@
+#status-已阅 
 # my dear offender
 [被人骂了，而且很难听该怎么办?](https://www.zhihu.com/question/391340889/answer/2910657630)
 
