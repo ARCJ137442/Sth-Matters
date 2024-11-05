@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待归档/富国plus.md",
+                "file": "待归档/zw器神教.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "富国plus"
+              "title": "zw器神教"
             }
           },
           {
@@ -89,7 +89,8 @@
               "title": "重礼"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +219,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "17f50fb0cbf36efc",
+  "active": "9c62602861d7e747",
   "lastOpenFiles": [
     "待归档/富国plus.md",
     "待归档/帅.md",
