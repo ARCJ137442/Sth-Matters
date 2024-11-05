@@ -1,4 +1,4 @@
-#status-已阅 
+#status-有感 
 # zw器神教
 [我是一个非自愿独身者（incel/blackpill），请问我该如何改变？该如何自我救赎？](https://www.zhihu.com/question/579206074/answer/4429775754)
 
