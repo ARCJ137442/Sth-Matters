@@ -1,3 +1,4 @@
+#status-已阅 
 # so what
 [如何评价谣言“吴京艾滋”？](https://www.zhihu.com/question/644446788/answer/3399427613)
 
