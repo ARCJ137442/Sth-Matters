@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#【答集】/01-家族答集  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -22,16 +22,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 1.2721782729805,
+  "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 0.605482318476669,
   "collapse-forces": false,
   "centerStrength": 0.0966735966735967,
   "repelStrength": 18.1496881496882,
   "linkStrength": 0.495841995841996,
   "linkDistance": 500,
-  "scale": 0.012321823746231067,
+  "scale": 0.04231590268975934,
   "close": false
 }
