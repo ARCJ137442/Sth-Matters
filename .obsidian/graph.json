@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#【答集】/01-家族答集  ",
+  "search": "path:【本周更新】  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -32,6 +32,6 @@
   "repelStrength": 18.1496881496882,
   "linkStrength": 0.495841995841996,
   "linkDistance": 500,
-  "scale": 0.04231590268975934,
-  "close": false
+  "scale": 0.6316046762907525,
+  "close": true
 }
