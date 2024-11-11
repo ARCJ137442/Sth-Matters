@@ -1,12 +1,14 @@
-#status-已阅 
+#status/已阅/1
+
 # 初恋ai
+
 [对象问我跟前男友睡过几次，我说大学睡过一次并且没有做，到了研究生才做过，他不相信，这么不可信吗？](https://www.zhihu.com/question/638468081/answer/3411371625)
 
 > Author: #Anonymity
 > Last update: [编辑于 2024-02-27]
 > Link:
-> Category: #【答集】/10-就你机灵系列 
-> Tag: #2-亲密关系/1-交往准则/1f-银子弹 
+> Category: #【答集】/10-就你机灵系列
+> Tag: #2-亲密关系/1-交往准则/1f-银子弹
 > 评论区:
 > 泛讨论:
 

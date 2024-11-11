@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#status-已阅  ",
+      "query": "tag:#status/已阅  ",
       "color": {
         "a": 1,
         "rgb": 65331
       }
     },
     {
-      "query": "tag:#status-有感  ",
+      "query": "tag:#status/有感  ",
       "color": {
         "a": 1,
         "rgb": 16776960

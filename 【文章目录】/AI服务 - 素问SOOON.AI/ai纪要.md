@@ -1,4 +1,4 @@
-#status-已阅
+#status/已阅/1
 # ai纪要
 [飞书推出智能 AI 助手「My AI」，能够自动汇总会议纪要等，对此你有哪些期待？](https://www.zhihu.com/question/594980453/answer/2980072119)
 

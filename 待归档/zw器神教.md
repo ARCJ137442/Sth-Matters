@@ -1,12 +1,14 @@
-#status-有感 
+#status/有感
+
 # zw器神教
+
 [我是一个非自愿独身者（incel/blackpill），请问我该如何改变？该如何自我救赎？](https://www.zhihu.com/question/579206074/answer/4429775754)
 
 > Author: #Anonymity
 > Last update: [编辑于 2024-10-08]
 > Link:
-> Category: #【答集】/04-社科答集 #【答集】/01-家族答集 #【答集】/03-第一性 
-> Tag: 
+> Category: #【答集】/04-社科答集 #【答集】/01-家族答集 #【答集】/03-第一性
+> Tag:
 > 评论区:
 > 泛讨论:
 
