@@ -1,3 +1,5 @@
+#status/已阅/1 
+
 # A VERY EDUCATED GUESS
 [为什么妈妈说这件衣服是吧台小姐穿的？](https://www.zhihu.com/question/2975291413/answer/25722688707)
 
