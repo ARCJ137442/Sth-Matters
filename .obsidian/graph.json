@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:【本周更新】  ",
+  "search": "path:【本周更新】 ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -28,10 +28,10 @@
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 0.605482318476669,
   "collapse-forces": false,
-  "centerStrength": 0.0966735966735967,
-  "repelStrength": 18.1496881496882,
+  "centerStrength": 0.213097713097713,
+  "repelStrength": 1.68399168399168,
   "linkStrength": 0.495841995841996,
   "linkDistance": 500,
-  "scale": 0.8854989543150423,
+  "scale": 1.2414543899483086,
   "close": false
 }
