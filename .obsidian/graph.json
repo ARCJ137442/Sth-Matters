@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 16776960
       }
+    },
+    {
+      "query": "tag:#status/在读  ",
+      "color": {
+        "a": 1,
+        "rgb": 65505
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 18.1496881496882,
   "linkStrength": 0.495841995841996,
   "linkDistance": 500,
-  "scale": 0.042315902689759315,
-  "close": true
+  "scale": 0.015355906606692823,
+  "close": false
 }

@@ -20,42 +20,6 @@
             }
           },
           {
-            "id": "17f50fb0cbf36efc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "433d050d452d8348",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "636d76759552b35f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
             "id": "b1b9873c78a73de2",
             "type": "leaf",
             "state": {
@@ -117,15 +81,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/爱在珍珠港.md",
+                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/197 - 生命伦理学/关于永生/长生不老.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "爱在珍珠港"
+              "title": "长生不老"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"#status-已阅 \"",
+                "query": "而这些要素对你的决策的影响也会消失。",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,8 +142,7 @@
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,10 +228,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9ad817fa3d0d9905",
+  "active": "7569597966c86526",
   "lastOpenFiles": [
-    "【文章目录】/【1 - 哲学类】/170 - 心理学/173 - 一般心理/情绪/失望.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/热烈和长久.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原理/爱讲逻辑.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原理/爱情.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/494 - 企业管理/复盘.md",
     "【本周更新】/爱在珍珠港.md",
+    "【文章目录】/【1 - 哲学类】/170 - 心理学/173 - 一般心理/情绪/失望.md",
     "【本周更新】/漫堤之日.md",
     "【本周更新】/实习生.md",
     "【本周更新】/所罗门说.md",
@@ -288,10 +256,6 @@
     "【本周更新】/没家教和不礼貌.md",
     "【本周更新】/几时崩溃.md",
     "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论分手/抢孩子.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/选择与规划/职业规划.md",
-    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/冲突处理/怒的边界.md",
-    "待归档/维特观鲨.md",
-    "待归档/漏了一个.md",
     "debug.log",
     "md/Nell",
     "md/N",
