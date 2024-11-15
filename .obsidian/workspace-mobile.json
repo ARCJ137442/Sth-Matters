@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "5708e31e52622bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "124416099a67fed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "013ce96ef3c9ab02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/160 - 形而上学/165 - 价值论/人生观/懒散.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "懒散"
+            }
+          },
+          {
+            "id": "73cf099752d4f999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/礼节规范/私聊.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "私聊"
+            }
+          },
+          {
+            "id": "a1b734fb3d8ee3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/态度与伦理/服从领导.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "服从领导"
+            }
+          },
+          {
+            "id": "71adde568da3e6c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/大小事.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大小事"
+            }
+          },
+          {
+            "id": "53fef37f1a2a7cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原理/喜欢.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "喜欢"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b84f2e832b25500e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a131a8fc18b72f6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "82869b80d6297e11",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "作息是最后被确定的东西，决定它的东西远在云端之上。",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "515320bc1699ee22",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c87635b7f6639159",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "348314076cd17bb1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "6419ceb485933082",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "64dcb62c836a6f14",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/礼节规范/私聊.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8f32e5d84bf08e22",
+        "type": "leaf",
+        "state": {
+          "type": "Strange New Worlds",
+          "state": {},
+          "icon": "file-digit",
+          "title": "Strange New Worlds"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "53fef37f1a2a7cc5",
+  "lastOpenFiles": [
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/大小事.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/165 - 价值论/人生观/懒散.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/礼节规范/私聊.md",
+    "【文章目录】/【1 - 哲学类】/170 - 心理学/173 - 一般心理/情绪/傲慢.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/礼节规范/道歉.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原理/亲近.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原理/喜欢.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论婚姻/事业已定.md",
+    "【文章目录】/【1 - 哲学类】/170 - 心理学/177 - 临床心理学/抑郁成因/破网.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/态度与伦理/服从领导.md",
+    "【文章目录】/AI服务 - 素问SOOON.AI/同问.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理/修养/老而不语.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/礼节规范/吃老虎的猪.md",
+    "待归档/拈花.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/表达意愿/父母先生.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/交友之道/你好我好.md",
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/性伦理/性道德/贞操无价.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论安全/救助他人/爱不生债.md",
+    "沙海拾金/泛讨论/泛讨论_爱的实践.md",
+    "待归档/先谈后定.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论健康/休息.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/165 - 价值论/价值观/时间不够.md",
+    "【文章目录】/【9 - 艺术类】/990 - 游艺及休闲活动/自媒体/睡前消息/马督工.md"
+  ]
+}
