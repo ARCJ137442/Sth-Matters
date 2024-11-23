@@ -1,3 +1,5 @@
+#status/已阅/1 
+
 # money talks
 [不能接受别人说我的不好，一说我就会不耐烦，这是为什么？](https://www.zhihu.com/question/3795183133/answer/29333897425)
 
