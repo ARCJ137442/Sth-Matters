@@ -1,3 +1,5 @@
+#status/已阅/1 
+
 # zz理论
 [三十岁之前可以读类似毛选和马克思之类的书籍吗?](https://www.zhihu.com/question/653779947/answer/3479724010)
 

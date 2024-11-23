@@ -1,3 +1,5 @@
+#status/已阅/1 
+
 # no run
 [如何看待当今年轻人张口闭口就是资本家，并以无知浅薄的方式来进行所谓的对抗，妄图让社会迎合他们的幼稚？](https://www.zhihu.com/question/541030715/answer/2555888987)
 > Author: #Anonymity
