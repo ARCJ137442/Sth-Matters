@@ -184,7 +184,8 @@
               "title": "文件列表"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -280,7 +281,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "0f9ff63579e1d1e9",
+  "active": "4879eced09a10136",
   "lastOpenFiles": [
     "【文章目录】/【9 - 艺术类】/990 - 游艺及休闲活动/游戏/IGN.md",
     "待归档/经久不衰.md",
