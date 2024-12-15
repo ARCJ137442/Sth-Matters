@@ -1,3 +1,5 @@
+#status/已阅/1 
+
 # the game of 看不起
 [为什么我书读得越多，越看不起周围的人？](https://www.zhihu.com/question/26828496/answer/2830201218)
 

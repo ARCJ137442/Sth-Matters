@@ -88,5 +88,14 @@
       ],
       "key": "C"
     }
+  ],
+  "editor:delete-paragraph": [],
+  "bookmarks:bookmark-current-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
