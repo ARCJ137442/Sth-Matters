@@ -144,9 +144,33 @@
               "icon": "lucide-file",
               "title": "一而再再而三"
             }
+          },
+          {
+            "id": "16d581b6b8808c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/170 - 心理学/173 - 一般心理/情绪/后悔的真相.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "后悔的真相"
+            }
+          },
+          {
+            "id": "7fa151fe7da11806",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -295,8 +319,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "236e5c4b7b1cee3c",
+  "active": "16d581b6b8808c07",
   "lastOpenFiles": [
+    "【文章目录】/【1 - 哲学类】/170 - 心理学/173 - 一般心理/情绪/后悔的真相.md",
+    "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/冲突处理/一而再再而三.md",
+    "【文章目录】/【5 - 社会科学】/570 - 政治/578 - 国际关系/国际主义.md",
     "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/贫穷/生而贫穷.md",
     "待归档/黄石.md",
     "待归档/行宫.md",
@@ -320,9 +347,6 @@
     "【本周更新】/承诺书.md",
     "【本周更新】/延长线游戏.md",
     "【本周更新】/少收几万.md",
-    "【本周更新】/封存舰艇.md",
-    "【本周更新】/大教育家.md",
-    "【本周更新】/公什么关.md",
     "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/性伦理/高级妩媚感 2.textClipping",
     "tempCodeRunnerFile.julia",
     "debug.log",
