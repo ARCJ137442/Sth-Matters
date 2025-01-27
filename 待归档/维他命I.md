@@ -1,3 +1,5 @@
+#status/已阅/1 
+
 # 维他命I
 [你觉得中国孩子最缺的是什么?](https://www.zhihu.com/question/610021061/answer/74086031943)
 
