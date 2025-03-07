@@ -170,17 +170,17 @@
             }
           },
           {
-            "id": "242b998eb36f21ec",
+            "id": "747b84fed4196051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【本周更新】/3000公里防空圈.md",
+                "file": "【文章目录】/【1 - 哲学类】/160 - 形而上学/162 - 方法论/论处世/表达意愿/正当拒绝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3000公里防空圈"
+              "title": "正当拒绝"
             }
           }
         ],
@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#5-社会科学/1-社会学/1b-社会问题/社会责任与公权力",
+                "query": "tag:#2-亲密关系/1-交往准则/1c-隐私与授信",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,14 +230,14 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,7 +277,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -333,34 +335,34 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "242b998eb36f21ec",
+  "active": "747b84fed4196051",
   "lastOpenFiles": [
-    "【本周更新】/上交绞索.md",
-    "【本周更新】/SOP 2.md",
-    "【本周更新】/LG杯.md",
-    "【本周更新】/免俗.md",
-    "【本周更新】/高额抚养费.md",
-    "【本周更新】/阿尔弗雷德.md",
-    "【本周更新】/天下第一.md",
-    "【本周更新】/大绑架.md",
-    "【本周更新】/非议.md",
-    "【本周更新】/年入几百万.md",
-    "【本周更新】/女用电钻.md",
-    "【本周更新】/扒钞票.md",
-    "【本周更新】/被扼杀的人才.md",
-    "【本周更新】/蛟龙行动.md",
-    "【本周更新】/红旗下的蛋.md",
-    "【本周更新】/海上水.md",
-    "【本周更新】/谢婆婆.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理/修养/静气.md",
-    "待归档/真的不适合.md",
-    "待归档/男扮女装.md",
-    "待归档/由蠢及恶.md",
-    "待归档/满门忠烈.md",
-    "待归档/提子规则.md",
-    "待归档/小汉奸.md",
-    "待归档/不够友好.md",
-    "【本周更新】/外戚当权.md",
+    "待归档/黑漆漆.md",
+    "待归档/黑公关.md",
+    "待归档/高额抚养费.md",
+    "待归档/哪吒2.md",
+    "待归档/哪吒 3.md",
+    "待归档/哗众取宠.md",
+    "待归档/咁威水.md",
+    "待归档/名著.md",
+    "待归档/史无前例.md",
+    "待归档/反无人机.md",
+    "待归档/南北宗族.md",
+    "待归档/千万别抬头.md",
+    "待归档/免俗.md",
+    "待归档/体罚权.md",
+    "待归档/上交绞索.md",
+    "待归档/三重冠.md",
+    "待归档/USAID.md",
+    "待归档/SOP 2.md",
+    "待归档/LG杯.md",
+    "待归档/DeepSeek.md",
+    "待归档/3000公里防空圈.md",
+    "【本周更新】/面子币.md",
+    "【本周更新】/金匠.md",
+    "【本周更新】/超跑.md",
+    "【本周更新】/自己的狂欢.md",
+    "【本周更新】/真正的贵族.md",
     "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/性伦理/高级妩媚感 2.textClipping",
     "tempCodeRunnerFile.julia",
     "debug.log",
