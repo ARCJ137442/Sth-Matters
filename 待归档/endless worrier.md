@@ -1,3 +1,5 @@
+#status/已阅/1 
+
 # endless worrier
 [为什么很多家庭里扫兴的都是妈妈？](https://www.zhihu.com/question/648656723/answer/119879454234)
 
